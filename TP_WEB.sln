@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_WEB_GOMEZ_MANSILLA", "TP_WEB_GOMEZ_MANSILLA\TP_WEB_GOMEZ_MANSILLA.csproj", "{BD09FC70-453A-4178-9BFD-5AD0A3E0E5F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD09FC70-453A-4178-9BFD-5AD0A3E0E5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD09FC70-453A-4178-9BFD-5AD0A3E0E5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD09FC70-453A-4178-9BFD-5AD0A3E0E5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD09FC70-453A-4178-9BFD-5AD0A3E0E5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D916BD6-558F-4E36-BF23-77F05359C719}
+	EndGlobalSection
+EndGlobal

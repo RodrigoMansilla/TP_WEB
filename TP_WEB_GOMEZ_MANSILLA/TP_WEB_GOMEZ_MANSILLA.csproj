@@ -130,6 +130,8 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="IMAGENES\Doom_game_video_games_doom_2016-5930.jpg!d.jpg" />
+    <Content Include="Sql_Scripts\SQL_TPWEB.sql" />
     <Content Include="webprueba.aspx" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />

@@ -9,6 +9,6 @@ namespace TP_WEB_GOMEZ_MANSILLA
     {
 
 
-
+        private string nombre;
     }
 }

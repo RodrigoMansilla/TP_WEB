@@ -8,5 +8,6 @@ namespace Dominio
 {
     public class Voucher
     {
+        public int MyProperty { get; set; }
     }
 }

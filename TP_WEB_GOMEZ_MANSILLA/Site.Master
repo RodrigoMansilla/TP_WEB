@@ -47,13 +47,16 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" runat="server" href="~/">Nombre de la aplicación</a>
+                    <a class="navbar-brand" runat="server" href="~/">TP_WEB_GOMEZ_MANSILLA</a>
                 </div>
+                <%-- SECCION DONDE AGREGAMOS LOS WEB FORMS --%>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/">Inicio</a></li>
                         <li><a runat="server" href="~/About">Acerca de</a></li>
                         <li><a runat="server" href="~/Contact">Contacto</a></li>
+                        <li><a runat="server" href="webprueba.aspx">webprueba</a></li>
+
                     </ul>
                 </div>
             </div>
@@ -66,6 +69,10 @@
                 <p>&copy; <%: DateTime.Now.Year %> - Mi aplicación ASP.NET</p>
             </footer>
         </div>
+
+        <p>
+            <asp:Button ID="Button1" runat="server" Text="Button" />
+        </p>
 
     </form>
 </body>

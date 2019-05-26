@@ -63,6 +63,9 @@
         </div>
         <div class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
+
+                <h1>aca vanlos contenidos  de las web forms</h1>
+
             </asp:ContentPlaceHolder>
             <hr />
             <footer>

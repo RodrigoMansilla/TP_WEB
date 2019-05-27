@@ -130,6 +130,7 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="IMAGENES\141270403d219a1262f176d82d9388c0.jpg" />
     <Content Include="IMAGENES\Doom_game_video_games_doom_2016-5930.jpg!d.jpg" />
     <Content Include="Index.aspx" />
     <Content Include="Sql_Scripts\SQL_TPWEB.sql" />

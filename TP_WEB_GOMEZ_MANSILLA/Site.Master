@@ -47,7 +47,8 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" runat="server" href="~/">TP_WEB_GOMEZ_MANSILLA</a>
+                    <a class="navbar-brand" runat="server" href="~/">
+                        <img src="IMAGENES/141270403d219a1262f176d82d9388c0.jpg" />alt="Alternate Text" /></a>
                 </div>
                 <%-- SECCION DONDE AGREGAMOS LOS WEB FORMS --%>
                 <div class="navbar-collapse collapse">

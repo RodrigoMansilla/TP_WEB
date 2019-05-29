@@ -1618,6 +1618,9 @@ pre code {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
+    top: 0px;
+    left: 396px;
+    width: 1035px;
 }
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
   float: left;
@@ -4274,10 +4277,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
   float: left;
-  height: 50px;
+  height: 184px;
   padding: 15px 15px;
   font-size: 18px;
   line-height: 20px;
+    width: 1496px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -4285,6 +4289,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand > img {
   display: block;
+    height: 212px;
+    width: 1504px;
+    margin-left: 0px;
+    margin-top: 0px;
 }
 @media (min-width: 768px) {
   .navbar > .container .navbar-brand,
@@ -4310,7 +4318,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-toggle .icon-bar {
   display: block;
   width: 22px;
-  height: 2px;
+  height: 3px;
   border-radius: 1px;
 }
 .navbar-toggle .icon-bar + .icon-bar {
@@ -4592,6 +4600,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 .navbar-inverse {
   background-color: #222;
   border-color: #080808;
+    height: 247px;
 }
 .navbar-inverse .navbar-brand {
   color: #9d9d9d;

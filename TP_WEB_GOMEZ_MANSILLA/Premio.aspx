@@ -26,12 +26,6 @@
     <h1> ELIJA SU PREMIO </h1>
         </div>
 
-    <style>        .hola {
-    Font-family: Raleway; 
-            }
-    </style>
-
-    <div class="hola"><h2>Hola</h2></div>
     
 
 

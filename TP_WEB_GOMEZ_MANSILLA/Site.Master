@@ -22,6 +22,11 @@
     width:150;
     }
     </style>
+    <style>
+body {
+  background-image: url("http://sysacadweb.frgp.utn.edu.ar/fondo.gif");
+}
+</style>
 </head>
 <body>
     <form runat="server">
@@ -58,6 +63,7 @@
                       <img id="brand-image" alt="Website logo" src="https://forophotoshop.com/attachments/banner-deporte-png.233" />
                     </a>
                 </div>
+
                 <%-- SECCION DONDE AGREGAMOS LOS WEB FORMS --%>
                 <div class="navbar-collapse collapse">
                 </div>

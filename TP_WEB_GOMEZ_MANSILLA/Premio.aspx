@@ -11,6 +11,30 @@
     <br />
 
     <br /><br />
+    <style>
+.center {
+  margin: auto;
+  width: 60%;
+  /*border: 3px solid #73AD21;*/
+  padding: 10px;
+}
+</style>
+    <style>h1{ color: #FF0000; 
+                /*Font-size: 45px;*/
+}</style>
+    <div class="center">
+    <h1> ELIJA SU PREMIO </h1>
+        </div>
+
+    <style>        .hola {
+    Font-family: Raleway; 
+            }
+    </style>
+
+    <div class="hola"><h2>Hola</h2></div>
+    
+
+
 <div class="container-fluid">
 	<div class="row">
         <div style="padding:3px; margin-bottom: 0px;">

@@ -189,6 +189,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="NoSeRompe.cs" />
     <Compile Include="Premio.aspx.cs">
       <DependentUpon>Premio.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

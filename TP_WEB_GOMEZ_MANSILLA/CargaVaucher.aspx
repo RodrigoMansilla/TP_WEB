@@ -21,6 +21,8 @@
   <input type="text" class="form-control" aria-label="Large" aria-describedby="inputGroup-sizing-sm">
     <button type="button" class="btn btn-primary">Aceptar</button>
 
+    <asp:Button ID="bttn_enviar" runat="server" Text="Enviar"  class="form-control" OnClick="bttn_enviar_Click" />
+
 </div>
 
     </asp:Content>

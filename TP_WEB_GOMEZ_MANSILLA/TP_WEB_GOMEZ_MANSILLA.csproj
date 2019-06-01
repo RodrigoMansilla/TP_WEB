@@ -129,6 +129,7 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="IMAGENES\anime-1556908427668-9911.jpg" />
     <Content Include="IMAGENES\Doom_game_video_games_doom_2016-5930.jpg!d.jpg" />
     <Content Include="Premio.aspx" />
     <Content Include="Sql_Scripts\SQL_TPWEB.sql" />

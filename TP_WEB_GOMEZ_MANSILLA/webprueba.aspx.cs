@@ -13,5 +13,10 @@ namespace TP_WEB_GOMEZ_MANSILLA
         {
 
         }
+
+        protected void bttn_enviar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

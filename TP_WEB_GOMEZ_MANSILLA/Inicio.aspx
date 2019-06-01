@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="webprueba.aspx.cs" Inherits="TP_WEB_GOMEZ_MANSILLA.webprueba" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Inicio.aspx.cs" Inherits="TP_WEB_GOMEZ_MANSILLA.webprueba" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     
     <br />

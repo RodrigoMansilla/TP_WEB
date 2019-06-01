@@ -132,8 +132,7 @@
     <Content Include="IMAGENES\anime-1556908427668-9911.jpg" />
     <Content Include="IMAGENES\Doom_game_video_games_doom_2016-5930.jpg!d.jpg" />
     <Content Include="Premio.aspx" />
-    <Content Include="Sql_Scripts\SQL_TPWEB.sql" />
-    <Content Include="webprueba.aspx" />
+    <Content Include="Inicio.aspx" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -220,12 +219,12 @@
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
     </Compile>
-    <Compile Include="webprueba.aspx.cs">
-      <DependentUpon>webprueba.aspx</DependentUpon>
+    <Compile Include="Inicio.aspx.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="webprueba.aspx.designer.cs">
-      <DependentUpon>webprueba.aspx</DependentUpon>
+    <Compile Include="Inicio.aspx.designer.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

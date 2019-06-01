@@ -3,15 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Dominio;
 
-namespace Negocios
+namespace Dominio
 {
-    class ClienteNegocios
+    public class Producto
     {
-        private PARTICIPANTES participantes =new PARTICIPANTES();
-
-
-
     }
 }

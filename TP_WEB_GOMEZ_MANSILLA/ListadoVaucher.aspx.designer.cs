@@ -13,6 +13,15 @@ namespace TP_WEB_GOMEZ_MANSILLA {
     public partial class ListadoVaucher {
         
         /// <summary>
+        /// Control gv_vauchers.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView gv_vauchers;
+        
+        /// <summary>
         /// Control Button1.
         /// </summary>
         /// <remarks>

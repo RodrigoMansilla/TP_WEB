@@ -69,7 +69,6 @@
     <Compile Include="PARTICIPANTES.cs">
       <DependentUpon>Modelo.tt</DependentUpon>
     </Compile>
-    <Compile Include="Producto.cs" />
     <Compile Include="PRODUCTOS.cs">
       <DependentUpon>Modelo.tt</DependentUpon>
     </Compile>
@@ -77,7 +76,6 @@
     <Compile Include="VAUCHERS.cs">
       <DependentUpon>Modelo.tt</DependentUpon>
     </Compile>
-    <Compile Include="Voucher.cs" />
   </ItemGroup>
   <ItemGroup>
     <EntityDeploy Include="Modelo.edmx">

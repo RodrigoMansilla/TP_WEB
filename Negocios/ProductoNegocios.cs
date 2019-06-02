@@ -8,5 +8,8 @@ namespace Negocios
 {
     public class ProductoNegocios
     {
+
+
+
     }
 }

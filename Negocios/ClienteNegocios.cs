@@ -7,7 +7,7 @@ using Dominio;
 
 namespace Negocios
 {
-    class ClienteNegocios
+    public class ClienteNegocios
     {
         private PARTICIPANTES participantes =new PARTICIPANTES();
 

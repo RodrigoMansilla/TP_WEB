@@ -131,6 +131,7 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="IMAGENES\anime-1556908427668-9911.jpg" />
     <Content Include="IMAGENES\Doom_game_video_games_doom_2016-5930.jpg!d.jpg" />
+    <Content Include="ListadoVaucher.aspx" />
     <Content Include="Premio.aspx" />
     <Content Include="Inicio.aspx" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
@@ -188,6 +189,13 @@
     <Compile Include="ClasePrueba.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="ListadoVaucher.aspx.cs">
+      <DependentUpon>ListadoVaucher.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListadoVaucher.aspx.designer.cs">
+      <DependentUpon>ListadoVaucher.aspx</DependentUpon>
     </Compile>
     <Compile Include="NoSeRompe.cs" />
     <Compile Include="Premio.aspx.cs">

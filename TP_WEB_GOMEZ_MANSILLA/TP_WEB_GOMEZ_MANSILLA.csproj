@@ -186,7 +186,6 @@
     <Compile Include="CargaVaucher.aspx.designer.cs">
       <DependentUpon>CargaVaucher.aspx</DependentUpon>
     </Compile>
-    <Compile Include="ClasePrueba.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
